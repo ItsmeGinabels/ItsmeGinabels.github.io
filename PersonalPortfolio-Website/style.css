@@ -637,7 +637,7 @@ header a.logo img {
    Banner
 ====================================== */
 .slider-area{
-    background-image: url("../img/banner.jpg");
+    background-image: url("img/banner.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -802,7 +802,7 @@ header a.logo img {
 ====================================== */
 
 .skills{
-    background-image: url("../img/skills-bg.jpg");
+    background-image: url("img/skills-bg.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -841,7 +841,7 @@ header a.logo img {
 ====================================== */
 
 .timeline-bg{
-    background-image: url("../img/timeline.jpg");
+    background-image: url("img/timeline.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1056,7 +1056,7 @@ header a.logo img {
     -webkit-transform: translateX(-50%) translateY(-50%);
     -ms-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    background: url(../img/cd-arrow.svg) no-repeat 0 0;
+    background: url("img/cd-arrow.svg") no-repeat 0 0;
 }
 .cd-timeline-navigation a.prev {
     left: 0;
@@ -1251,7 +1251,7 @@ header a.logo img {
 ====================================== */
 
 .portfolio-bg{
-    background-image: url("../img/portfolio-bg.jpg");
+    background-image: url("img/portfolio-bg.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1448,7 +1448,7 @@ header a.logo img {
 ====================================== */
 
 .testimonial-bg{
-    background-image: url("../img/testimonial-bg.jpg");
+    background-image: url("img/testimonial-bg.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1507,7 +1507,7 @@ header a.logo img {
 ====================================== */
 
 .contact-bg{
-    background-image: url("../img/contact-bg.jpg");
+    background-image: url("img/contact-bg.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
